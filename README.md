@@ -1,3 +1,5 @@
+# i forgot to update this long ago, my math was wrong. bonk!
+
 # StepBet-Calculator
 Calculates potential winnings based on number of players left in the game
 
